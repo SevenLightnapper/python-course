@@ -12,8 +12,8 @@ def are_anagrams(str_1, str_2):
 # Пример использования
 str1 = "listen"
 str2 = "silent"
-print(are_anagrams(str1, str2))
+print("Are '" + str1 + "' and '" + str2 + "' anagrams? -", are_anagrams(str1, str2))
 
 str1 = "hello"
 str2 = "world"
-print(are_anagrams(str1, str2))
+print("Are '" + str1 + "' and '" + str2 + "' anagrams? -", are_anagrams(str1, str2))
