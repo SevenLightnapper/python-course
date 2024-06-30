@@ -9,7 +9,7 @@ This is module 2.
 # TODO List
 
 - [x] Create a directory for module 2.
-- [ ] Create pull request from 'module2' branch to 'master' branch
+- [X] Create pull request from 'module2' branch to 'master' branch
 - [ ] Add homeworks
   - [ ] Create a new branch from 'module2' branch
   - [ ] Create a corresponding directory for the homework
