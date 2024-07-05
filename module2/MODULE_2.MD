@@ -89,18 +89,3 @@ This module contains six assignments aimed at practicing Python's fundamental op
   - **Example 2:**
     11 - the number from the first insert
     11029384756 - the required password (1 and 10, 2 and 9, 3 and 8, 4 and 7, 5 and 6 - pairs; the number 11 is divisible by the sum of each pair)
-
----
-
-# TODO List
-
-- [x] Create a directory for module 2.
-- [X] Create pull request from 'module2' branch to 'master' branch
-- [X] Add homeworks
-  - [X] Create a new branch from 'module2' branch
-  - [X] Create a corresponding directory for the homework
-  - [X] Add homework files to the directory
-  - [X] Create a pull request from 'hw*' branch to 'module2' branch
-  - [X] After checkup with instructor merge pull request
-- [X] Add homework descriptions to MODULE_2.md
-- [ ] Merge pull request
