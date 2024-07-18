@@ -1,4 +1,4 @@
-# Module 4: Modules and packages
+# Module 4: Modules and packages. Namespaces and scopes
 
 ## Module Description
 This is module 4.
