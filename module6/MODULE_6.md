@@ -10,7 +10,7 @@ This is module 6.
 
 - [x] Create a directory for module 6.
 - [x] Create pull request from 'module6' branch to 'master' branch
-- [ ] Add homeworks
+- [x] Add homeworks
   - [ ] Create a new branch from 'module6' branch
   - [ ] Create a corresponding directory for the homework
   - [ ] Add homework files to the directory
