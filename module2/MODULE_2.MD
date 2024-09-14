@@ -4,7 +4,7 @@
 This module contains six assignments aimed at practicing Python's fundamental operators.
 
 ### Assignment 1: Goals and Objectives. Program Execution Flow. How the Interpreter Shows Variables.
-- **[Solution](./path/to/assignment1)**
+- **[Solution](./hw1)**
 - **Description:** 
   1. Run the project by clicking on the debug icon (bug) to the right of the project run button.
   2. Observe the result of the program in the console.
@@ -13,7 +13,7 @@ This module contains six assignments aimed at practicing Python's fundamental op
   5. Attach a screenshot of the written code.
 
 ### Assignment 2: Homework on "Conditional Constructs. If, Elif, Else Operators."
-- **[Solution](./path/to/assignment2)**
+- **[Solution](./hw2)**
 - **Description:** **Task "Are All Equal?"**
   - The program receives 3 integers as input and assigns them to variables `first`, `second`, and `third` respectively.
   - Write a conditional construct (using if, elif, else) that outputs the number of equal numbers among the three entered.
@@ -22,7 +22,7 @@ This module contains six assignments aimed at practicing Python's fundamental op
     3. If there are no equal numbers, output 0.
 
 ### Assignment 3: Task "Zeroes Are Nothing, Negatives Are Unacceptable!"
-- **[Solution](./path/to/assignment3)**
+- **[Solution](./hw3)**
 - **Description:** 
   - Given a list of numbers: `[42, 69, 322, 13, 0, 99, -5, 9, 8, 7, -6, 5]`, 
   you need to write only positive numbers from this list until you encounter a negative number or the list ends.
@@ -32,7 +32,7 @@ This module contains six assignments aimed at practicing Python's fundamental op
     3. Use break/continue operators in the loop according to the task conditions.
 
 ### Assignment 4: Homework on "For Loop. List Elements. Useful Functions in a Loop."
-- **[Solution](./path/to/assignment4)**
+- **[Solution](./hw4)**
 - **Description:** **Task "It's Not That Simple":**
   - Given a list of numbers: `[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]`
   - Create a second list `primes` containing only prime numbers from this list.
@@ -48,7 +48,7 @@ This module contains six assignments aimed at practicing Python's fundamental op
     6. Output the lists `primes` and `not_primes` to the console.
 
 ### Assignment 5: Homework on "Functions in Python. Function with Parameters."
-- **[Solution](./path/to/assignment5)**
+- **[Solution](./hw5)**
 - **Description:** **Task "Matrix in Reality":**
   - Write a function `get_matrix` with three parameters `n`, `m`, and `value` 
   that creates a matrix (nested list) of size `n` rows and `m` columns, filled with values `value`, 
@@ -64,7 +64,7 @@ This module contains six assignments aimed at practicing Python's fundamental op
     8. Output the result of the `get_matrix` function to the console.
 
 ### Additional Assignment: Practical Exercise on "Fundamental Operators"
-- **[Solution](./path/to/additional_assignment)**
+- **[Solution](./hw6)**
 - **Description:**
   **Task "Ancient Cipher Too Complex":**
   - You went on a journey to an uninhabited island and, of course, on one of your forays into the jungle, 
