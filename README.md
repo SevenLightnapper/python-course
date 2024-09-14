@@ -31,6 +31,12 @@ call counting, recursion, and unpacking arguments.
 It helps learners deepen their understanding of function management in Python.
 
 ### Module 4: Modules and Packages
-- **[Module 4](./path/to/module4)**
+- **[Module 4](./module4)**
+- **[Documentation](./module4/MODULE_4.md)**
 - **Description:** This module covers Python's module and package system, 
 helping learners understand how to structure larger Python projects and manage namespaces within functions.
+
+### Module 5: Classes and Objects
+- **[Module 5](./module5)**
+- **[Documentation](./module5/MODULE_5.md)**
+- **Description:** This module introduces object-oriented programming in Python, covering the creation of classes, methods, operator overloading, and the distinction between class attributes and instance attributes.

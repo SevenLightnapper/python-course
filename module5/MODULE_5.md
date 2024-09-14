@@ -40,18 +40,3 @@ operator overloading, and class-level versus instance-level attributes.
   **Task "UrTube Platform":** 
   - Implement a set of classes (`User`, `Video`, `UrTube`) to simulate the behavior of a video-sharing platform, 
   including user registration, video uploading, and video watching with age restrictions and playback tracking.
-
----
-
-# TODO List
-
-- [x] Create a directory for module 5.
-- [x] Create pull request from 'module5' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module5' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module5' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_5.md
-- [ ] Merge pull request
