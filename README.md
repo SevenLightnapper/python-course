@@ -22,3 +22,10 @@ Students will learn how to manipulate and use these data structures effectively 
 - **Description:** This module contains assignments aimed at understanding and using Python's fundamental operators, 
 including arithmetic, comparison, logical, and bitwise operators. 
 The tasks also cover the use of conditional statements and loops.
+
+### Module 3: Namespaces and Functions
+- **[Module 3](./module3)**
+- **[Documentation](./module3/MODULE_3.md)**
+- **Description:** This module explores Python namespaces and functions, including function parameters, 
+call counting, recursion, and unpacking arguments. 
+It helps learners deepen their understanding of function management in Python.

@@ -51,18 +51,3 @@ call counting, recursion, and unpacking arguments.
   **Task "One, Two, Three, Four... Is That All?":**
   - Write a function that calculates the sum of all numbers and the lengths of all strings in a nested data structure, 
   which may include lists, dictionaries, and tuples.
-
----
-
-# TODO List
-
-- [x] Create a directory for module 3.
-- [x] Create pull request from 'module3' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module3' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module2' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_3.md
-- [ ] Merge pull request
