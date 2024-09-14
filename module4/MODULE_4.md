@@ -21,18 +21,3 @@ as well as practicing namespaces in functions.
   **Task "Function Scope":**
   - Create a function `test_function` and define an inner function `inner_function` within it that prints a message. 
 Call `inner_function` within `test_function` and test whether `inner_function` can be called outside of `test_function`.
-
----
-
-# TODO List
-
-- [x] Create a directory for module 4.
-- [x] Create pull request from 'module4' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module4' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module4' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_4.md
-- [ ] Merge pull request

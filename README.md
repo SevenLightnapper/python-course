@@ -29,3 +29,8 @@ The tasks also cover the use of conditional statements and loops.
 - **Description:** This module explores Python namespaces and functions, including function parameters, 
 call counting, recursion, and unpacking arguments. 
 It helps learners deepen their understanding of function management in Python.
+
+### Module 4: Modules and Packages
+- **[Module 4](./path/to/module4)**
+- **Description:** This module covers Python's module and package system, 
+helping learners understand how to structure larger Python projects and manage namespaces within functions.
