@@ -1,4 +1,4 @@
-# Module 10: Multithreading
+# Module 10: Multithreading and Multiprocessing
 
 ## Module Description
 This is module 10.
