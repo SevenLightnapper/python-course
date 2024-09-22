@@ -86,10 +86,10 @@ class Figure:
 
 
     def __init__(self, color: Tuple[int, int, int], *sides: int):
-        self.__sides: List[int] = [1] * self.sides_count
-        self.__color: Tuple[int, int, int] = color
+        self.set_sides(*sides) if len(sides) == self.sides_count else [1] * self.sides_count
+        self.__color: Tuple[int, int, int] = color if self.__is_valid_color(*color) else (0, 0, 0)
         self.filled: bool = False
-        self.set_sides(*sides)
+
 
 
     def get_color(self) -> Tuple[int, int, int]:
@@ -174,8 +174,6 @@ class Circle(Figure):
 
     def __init__(self, color: Tuple[int, int, int], *sides: int):
         super().__init__(color, *sides)
-        if len(self.get_sides()) == 0:
-            self.set_sides(1)
         self.__radius: float = self.get_sides()[0] / (2 * math.pi)
 
 
