@@ -35,19 +35,3 @@ multiple inheritance, and advanced class design principles.
   - Implement a hierarchy of 2D and 3D geometric shapes using classes. Create a base class `Figure`, 
     and subclasses `Circle`, `Triangle`, and `Cube`. Each shape should have methods for managing dimensions, 
     colors, and calculating area or volume.
-
-
----
-
-# TODO List
-
-- [x] Create a directory for module 6.
-- [x] Create pull request from 'module6' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module6' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module6' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_6.md
-- [ ] Merge pull request

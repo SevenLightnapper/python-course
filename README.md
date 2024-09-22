@@ -39,4 +39,12 @@ helping learners understand how to structure larger Python projects and manage n
 ## Module 5: Classes and Objects
 - **[Module 5](./module5)**
 - **[Documentation](./module5/MODULE_5.md)**
-- **Description:** This module introduces object-oriented programming in Python, covering the creation of classes, methods, operator overloading, and the distinction between class attributes and instance attributes.
+- **Description:** This module introduces object-oriented programming in Python, covering the creation of classes, 
+methods, operator overloading, and the distinction between class attributes and instance attributes.
+
+## Module 6: Inheritance and Class Design
+- **[Module 6](./module6)**
+- **[Documentation](./module6/MODULE_6.md)**
+- **Description:** This module explores the concept of inheritance, building class hierarchies, method overriding, 
+and designing complex class systems with multiple inheritance and advanced features.
+
