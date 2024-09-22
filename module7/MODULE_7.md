@@ -41,18 +41,3 @@ and string formatting techniques.
   - Use `os.walk` to traverse directories, `os.path.join` to construct file paths, 
     and methods such as `os.path.getmtime`, `os.path.getsize`, and `os.path.dirname` 
     to retrieve file modification times, sizes, and parent directories.
-
----
-
-# TODO List
-
-- [x] Create a directory for module 7.
-- [x] Create pull request from 'module7' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module7' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module7' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_7.md
-- [ ] Merge pull request

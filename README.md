@@ -48,3 +48,8 @@ methods, operator overloading, and the distinction between class attributes and 
 - **Description:** This module explores the concept of inheritance, building class hierarchies, method overriding, 
 and designing complex class systems with multiple inheritance and advanced features.
 
+## Module 7: Working with Files and Formatted Output
+- **[Module 7](./module7)**
+- **[Documentation](./module7/MODULE_7.md)**
+- **Description:** This module covers essential file operations in Python, including file reading and writing, 
+file positioning, and directory traversal. It also introduces different methods for string formatting in Python.
