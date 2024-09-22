@@ -29,19 +29,3 @@ and managing errors effectively in code.
   - Implement a `Car` class with methods for validating VIN and number attributes. 
     Create two custom exception classes, `IncorrectVinNumber` and `IncorrectCarNumbers`, 
     to handle validation errors when creating instances of `Car`.
-
-
----
-
-# TODO List
-
-- [x] Create a directory for module 8.
-- [x] Create pull request from 'module8' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module8' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module8' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_8.md
-- [ ] Merge pull request

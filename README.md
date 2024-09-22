@@ -53,3 +53,10 @@ and designing complex class systems with multiple inheritance and advanced featu
 - **[Documentation](./module7/MODULE_7.md)**
 - **Description:** This module covers essential file operations in Python, including file reading and writing, 
 file positioning, and directory traversal. It also introduces different methods for string formatting in Python.
+
+### Module 8: Exceptions
+- **[Module 8](./module8)**
+- **[Documentation](./module8/MODULE_8.md)**
+- **Description:** This module delves into error handling in Python, 
+covering the use of exception handling mechanisms (`try`, `except`) 
+and the creation of custom exceptions for improved error management and validation in applications.
