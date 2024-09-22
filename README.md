@@ -54,9 +54,15 @@ and designing complex class systems with multiple inheritance and advanced featu
 - **Description:** This module covers essential file operations in Python, including file reading and writing, 
 file positioning, and directory traversal. It also introduces different methods for string formatting in Python.
 
-### Module 8: Exceptions
+## Module 8: Exceptions
 - **[Module 8](./module8)**
 - **[Documentation](./module8/MODULE_8.md)**
 - **Description:** This module delves into error handling in Python, 
 covering the use of exception handling mechanisms (`try`, `except`) 
 and the creation of custom exceptions for improved error management and validation in applications.
+
+## Module 9: Functional Programming
+- **[Module 9](./module9)**
+- **[Documentation](./module9/MODULE_9.md)**
+- **Description:** This module introduces functional programming in Python, 
+covering topics such as lambda functions, closures, iterators, generators, comprehensions, and decorators.

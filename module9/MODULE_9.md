@@ -49,18 +49,3 @@ including lambda functions, closures, iterators, generators, decorators, and com
 - **Description:** 
   - Implement a decorator function that checks whether the result of another function (which sums three numbers) 
     is a prime number, printing "Prime" or "Composite" based on the result.
-
----
-
-# TODO List
-
-- [x] Create a directory for module 9.
-- [x] Create pull request from 'module9' branch to 'master' branch
-- [x] Add homeworks
-  - [x] Create a new branch from 'module9' branch
-  - [x] Create a corresponding directory for the homework
-  - [x] Add homework files to the directory
-  - [x] Create a pull request from 'hw*' branch to 'module9' branch
-  - [x] After checkup with instructor merge pull request
-- [x] Add homework descriptions to MODULE_9.md
-- [ ] Merge pull request
