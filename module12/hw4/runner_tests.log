@@ -1,0 +1,16 @@
+WARNING: Неверный тип данных для объекта Runner: Имя может быть только строкой, передано int
+Traceback (most recent call last):
+  File "C:\Users\daire\PycharmProjects\python-course\module12\hw3\tests_12_4.py", line 78, in test_run
+    runner = Runner(12345, speed=10)  # Это вызовет исключение
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daire\PycharmProjects\python-course\module12\hw3\rt_with_exceptions.py", line 6, in __init__
+    raise TypeError(f'Имя может быть только строкой, передано {type(name).__name__}')
+TypeError: Имя может быть только строкой, передано int
+WARNING: Неверная скорость для Runner: Скорость не может быть отрицательной, сейчас -5
+Traceback (most recent call last):
+  File "C:\Users\daire\PycharmProjects\python-course\module12\hw3\tests_12_4.py", line 61, in test_walk
+    runner = Runner("TestRunner", speed=-5)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daire\PycharmProjects\python-course\module12\hw3\rt_with_exceptions.py", line 11, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
