@@ -125,16 +125,3 @@ class TournamentTest(unittest.TestCase):
 
         # Проверяем, что Ник последний
         self.assertTrue(results[max(results.keys())] == self.nick)
-
-
-# Создание тестового набора
-def suite():
-    suite = unittest.TestSuite()
-    suite.addTest(unittest.makeSuite(RunnerTest))
-    suite.addTest(unittest.makeSuite(TournamentTest))
-    return suite
-
-# Запуск тестов
-if __name__ == '__main__':
-    runner = unittest.TextTestRunner(verbosity=2)
-    runner.run(suite())
